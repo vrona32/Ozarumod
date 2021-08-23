@@ -1,5 +1,11 @@
 [
   {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 12,
+    "file": "itemtypes/bag/quiver.json"
+  },
+  {
     "op": "remove",
     "path": "/attributes/backpack/slotBgColor",
     "file": "itemtypes/bag/quiver.json"
