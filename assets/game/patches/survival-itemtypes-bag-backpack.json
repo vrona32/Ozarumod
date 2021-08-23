@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 12,
+    "file": "itemtypes/bag/backpack.json"
+  }
+]

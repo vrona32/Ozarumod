@@ -1,0 +1,20 @@
+{
+  "Type": "content",
+  "TextureSize": 32,
+  "Name": "Ozarumod",
+  "Version": "0.12",
+  "NetworkVersion": null,
+  "Description": "",
+  "Website": "",
+  "ModID": "Ozarumod",
+  "Authors": [
+    "Vronizos"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+	"game": "1.15.3"
+  }
+}

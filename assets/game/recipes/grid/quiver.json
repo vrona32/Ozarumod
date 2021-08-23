@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "LAL,LAL,LLL",
+	ingredients: {
+		"L": { type: "item", code: "game:leather", quantity: 2 },
+		"A": { type: "item", code: "game:stick", quantity: 1  }
+	},
+	width: 3,
+	height: 3,
+	output: { type: "item", code: "game:quiver"  }
+}
