@@ -1,8 +1,9 @@
 {
-	ingredientPattern: "LAL,LAL,LLL",
+	ingredientPattern: "PPP,LSL,LLL",
 	ingredients: {
+		"P": { type: "item", code: "game:hide-pelt-small", quantity: 2 },
 		"L": { type: "item", code: "game:leather", quantity: 2 },
-		"A": { type: "item", code: "game:stick", quantity: 1  }
+		"S": { type: "item", code: "game:linensack", quantity: 1  }
 	},
 	width: 3,
 	height: 3,
