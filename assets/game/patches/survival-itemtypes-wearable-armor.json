@@ -1,18 +1,8 @@
 [
   {
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 12,
-    "file": "itemtypes/bag/quiver.json"
-  },
-  {
-    "op": "remove",
-    "path": "/attributes/backpack/slotBgColor",
-    "file": "itemtypes/bag/quiver.json"
-  },
-  {
-    "op": "remove",
-    "path": "/attributes/backpack/storageFlags",
-    "file": "itemtypes/bag/quiver.json"
+    "op": "add",
+    "path": "/attributes/statModifiersByType/armor-*-sewn-linen/rangedWeaponsAcc",
+    "value": 0.11,
+    "file": "itemtypes/wearable/armor.json"
   }
 ]
