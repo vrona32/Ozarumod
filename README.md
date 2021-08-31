@@ -1,4 +1,4 @@
-# Ozarumod
+# Ozarumod 0.14
 Vintage Story mod for Ozaru.pl server
 
 Mod adds:
