@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/attributes/statModifiersByType/armor-*-sewn-linen/rangedWeaponsAcc",
-    "value": 0.11,
-    "file": "itemtypes/wearable/armor.json"
-  }
-]
